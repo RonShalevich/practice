@@ -50,3 +50,5 @@ git log —graph —oneline (to see changes in agit  oneliner)
 to delete a branch
 git branch -D branch
 then need to delete on github
+
+added a line
