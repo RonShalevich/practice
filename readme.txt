@@ -1,4 +1,4 @@
-Added a change as the first line.
+Changed the first line on a new branch. 
 
 Git
 
